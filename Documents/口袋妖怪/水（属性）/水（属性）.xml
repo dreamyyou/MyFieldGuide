@@ -1,0 +1,22 @@
+<node>
+	<name>水（属性）</name>
+	<father>口袋妖怪</father>
+	<description>
+		<title>介绍</title>
+		<img>水（属性）.jpg</img>
+		<paragraph>
+水（みず，Water），是十八种基本属性之一。</paragraph>
+		<paragraph>
+水属性的精灵总共有112只，占全精灵总数的16.79%。
+单属性精灵57只，其中最终形态26只。
+复合属性精灵55只，其中最终形态35只。</paragraph>
+		<title>水属性的技能</title>
+		<paragraph>
+水属性共有27个技能。
+其中物理技能8个，伤害最高的物理技能是威力100的蟹钳锤
+特殊技能14个，伤害最高的特殊技能是威力150的水压加农、喷水与组合后的水之誓。
+变化技能5个。
+到第三世代为止，水属性的攻击技能全部属于特殊伤害。</paragraph>
+	</description>
+	<tag>属性</tag>
+</node>

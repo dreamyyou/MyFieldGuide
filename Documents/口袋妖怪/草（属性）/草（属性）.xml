@@ -1,0 +1,24 @@
+<node>
+	<name>草（属性）</name>
+	<father>口袋妖怪</father>
+	<description>
+		<title>介绍</title>
+		<img>草（属性）.jpg</img>
+		<paragraph>
+草（くさ，Grass），是十八种基本属性之一。</paragraph>
+		<paragraph>
+草属性的精灵总共有77只，占全精灵总数的11.54%。
+单属性精灵31只，其中最终形态14只。
+复合属性精灵46只，其中最终形态24只。</paragraph>
+		<title>草属性的技能</title>
+		<paragraph>
+草属性共有37个技能。
+其中物理技能10个，伤害最高的物理技能是5次连续攻击的种子机枪，威力25×5。
+特殊技能13个，伤害最高的特殊技能是威力150的硬化植物与组合后的草之誓。
+变化技能14个。
+到第三世代为止，草属性的攻击技能全部属于特殊伤害。</paragraph>
+	</description>
+	<tag>属性</tag>
+	</description>
+	<son>妙蛙种子</son>
+</node>

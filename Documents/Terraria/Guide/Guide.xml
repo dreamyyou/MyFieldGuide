@@ -1,0 +1,35 @@
+<node>
+	<name>Guide</name>
+	<father>Terraria</father>
+	<property>
+		<key>Type</key>
+		<value>Town</value>
+	</property>
+	<property>
+		<key>Max Life</key>
+		<value>250</value>
+	</property>
+	<property>
+		<key>Defense</key>
+		<value>15</value>
+	</property>
+	<description>
+		<title>Introduction</title>
+		<img>Guide.png</img>
+		<paragraph>
+This is a Town NPC. A House may be required in order for it to appear.</paragraph>
+		<paragraph>
+The Guide is the first NPC that you encounter. He provides tips that are mainly for new players to learn the basics of the game, and can show you all crafting recipes involving an item you show him.</paragraph>
+		<paragraph>
+Unlike other NPCs, the Guide spawns on World creation, before an appropriate House is available, but will move into the first one you build, and will teleport there if he can't get there otherwise. If he is killed, he will need proper housing before he respawns.</paragraph>
+		<paragraph>
+When the Guide Voodoo Doll is equipped, the player can attack the guide.</paragraph>
+		<paragraph>
+If you wish to give your Guide a new name, or just feel like killing him, you can attack him while equipped with the Guide Voodoo Doll in an accessory slot, and he will respawn if there is a House available and it is daytime.</paragraph>
+		<paragraph>
+When the Guide Voodoo Doll is equipped, the player can attack the guide.
+</paragraph>
+		<img>2011-06-2300024.jpg</img>
+	</description>
+	<tag>NPC</tag>
+</node>

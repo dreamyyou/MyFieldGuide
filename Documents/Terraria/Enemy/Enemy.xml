@@ -1,0 +1,23 @@
+<node>
+	<name>Enemy</name>
+	<father>Enemy</father>
+	<property>
+		<key>Type</key>
+		<value>NPC</value>
+	</property>
+
+
+	<description>
+		<title>Introduction</title>
+		<img>Enemy.png</img>
+		<paragraph>
+You can compare the damage, defense, hitpoints, AI type, and environments of enemies in the sortable enemy list.</paragraph>
+		<paragraph>
+In total, there are 235 enemies: 64 Pre-Hardmode, 74 Hardmode, 8 uncommon, 44 Event, 16 Bosses, 5 Event Bosses, 10 Bosses' servants, and 19/mobile-exclusive.</paragraph>
+	</description>
+
+	<son>Eye of Cthulhu</son>
+	<son>Slime</son>
+	
+	<tag>enemy</tag>
+</node>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<name>
+		麻雀属
+	</name>
+
+	<property>
+		<key>麻雀</key>
+		<value type="img">500px-Feldsperling.jpg</value>
+	</property>
+	<property>
+		<key>科学分类</key>
+		<value>界：	动物界 Animalia 门：	脊索动物门 Chordata 纲：	鸟纲 Aves 目：	雀形目 Passeriformes 科：	麻雀科 Passeridae 属：	麻雀属 Passer</value>
+	</property>
+
+	<description>
+		<parapraph>
+麻雀属（学名Passer）是旧世界麻雀科的一属。大部分物种分布在非洲及欧亚大陆南部的温暖地区。有几种已经适应了与人类共存，如家麻雀，使它们的分布地可以伸延至中东等地。</parapraph>
+		<parapraph>
+家麻雀已经引进到很多地方，包括美洲、撒哈拉以南非洲及澳洲。麻雀也已被引进到澳洲及美国的密苏里州及伊利诺伊州。</parapraph>
+		<parapraph>
+麻雀属的巢很不整齐，通常筑在灌木、乔木、树穴、建筑物或是在白鹳的巢内。它们一次可以生8只蛋，双亲都会负责孵化，孵化期为12-14日，雏鸟14-24日大就会换羽。</parapraph>
+		<parapraph>
+麻雀属的体型细小，一般长10-20厘米。它们呈褐色或灰色，往往有黑色、黄色或白色斑纹，尾巴很短，喙短而硬。它们是独居的，但也会组成小群。其中一些有悦耳的歌声。</parapraph>
+	</description>
+
+	<son>黑顶麻雀</son>
+	<son>家麻雀</son>
+	<son>黑胸麻雀</son>
+
+	<own>黑顶麻雀</own>
+	<own>家麻雀</own>
+	<own>黑胸麻雀</own>
+</root>

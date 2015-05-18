@@ -1,0 +1,22 @@
+<node>
+	<name>Slime</name>
+	<father>Terraria</father>
+	<property>
+		<key>Type</key>
+		<value>enemy</value>
+	</property>
+
+
+	<description>
+		<title>Introduction</title>
+		<img>Slime.png</img>
+		<paragraph>
+Slimes are the most common enemy type. They come in multiple sizes and colors, each with different health and damage. All slimes follow basic Slime AI and attack by hopping onto the player. When a slime is preparing to hop, it bobs up and down rapidly. Slimes float in water.</paragraph>
+		<paragraph>
+Slimes spawned on or near the surface are usually neutral and do not chase the player during the day, unless provoked. They become hostile at night. Slimes spawned underground are always hostile. Green, Blue, Red, Purple and Yellow Slimes usually spawn on or near the surface. Mother Slime, Baby Slime, and Black Slime can only be found underground. Pinky may appear anywhere, although rarely.</paragraph>
+		<paragraph>
+All types drop 1-2 Gel, except for Corrupt Slime, which drops 2-4 gel, and the Lava Slime, which drops no gel. Gel is a vital ingredient, as it crafts Torches, which are of use throughout all stages of the game.</paragraph>
+	</description>
+	<son>Green Slime</son>
+	<tag>enemy</tag>
+</node>

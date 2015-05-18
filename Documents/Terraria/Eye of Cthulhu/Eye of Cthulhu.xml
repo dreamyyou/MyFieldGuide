@@ -1,0 +1,36 @@
+<node>
+	<name>Eye of Cthulhu</name>
+	<father>Terraria</father>
+	<property>
+		<key>Type</key>
+		<value>Boss</value>
+	</property>
+	<property>
+		<key>AI Type</key>
+		<value>Eye of Cthulhu AI</value>
+	</property>
+	<property>
+		<key>Damage</key>
+		<value>15</value>
+	</property>
+	<property>
+		<key>Max Life</key>
+		<value>2800/2800</value>
+	</property>
+	<property>
+		<key>Defense</key>
+		<value>12</value>
+	</property>
+	<description>
+		<title>Introduction</title>
+		<img>Eye of Cthulhu.png</img>
+		<img>Eyeofcthulhu.png</img>
+		<paragraph>
+"You feel an evil presence watching you..."
+</paragraph>
+		<paragraph>
+The Eye of Cthulhu is the first Boss a player will generally encounter, as it spawns automatically when a relatively early level of game advancement is achieved. It is considered the easiest Boss in the game, though still presents a challenge to newer players.
+</paragraph>
+	</description>
+	<tag>boss</tag>
+</node>

@@ -1,0 +1,32 @@
+<node>
+	<name>Copper Pickaxe</name>
+	<father>Terraria</father>
+	<property>
+		<key>Type</key>
+		<value>Tool</value>
+	</property>
+	<property>
+		<key>Damage</key>
+		<value>4</value>
+	</property>
+	<property>
+		<key>Power</key>
+		<value>35%</value>
+	</property>
+	<property>
+		<key>Knockback</key>
+		<value>2</value>
+	</property>
+	<property>
+		<key>Max stack</key>
+		<value>1</value>
+	</property>
+	<description>
+		<title>Introduction</title>
+		<img>Copper Pickaxe.png</img>
+		<paragraph>
+The Copper Pickaxe is the first Pickaxe that the player will obtain, as newly created characters spawn with this item in their second inventory slot. Although it has the same Pickaxe Power as the Cactus Pickaxe and its alternate ore version, the Tin Pickaxe (35%), it is the worst pickaxe in the game because it has a -1 range attribute. This means it can only mine 4 blocks to the sides, and 2 blocks above and below the player. Like other low-tier pickaxes, it can mine blocks and ores weaker than Meteorite (which can be mined with a Tungsten Pickaxe or better).
+</paragraph>
+	</description>
+	<tag>tool</tag>
+</node>

@@ -1,0 +1,44 @@
+<node>
+	<name>Green Slime</name>
+	<father>Slime</father>
+	<property>
+		<key>Type</key>
+		<value>Slime</value>
+	</property>
+	<property>
+		<key>Environment</key>
+		<value>Forest</value>
+	</property>
+	<property>
+		<key>AI Type</key>
+		<value>Slime</value>
+	</property>
+	<property>
+		<key>Damage</key>
+		<value>6</value>
+	</property>
+	<property>
+		<key>Max Life</key>
+		<value>14</value>
+	</property>
+	<property>
+		<key>Defense</key>
+		<value>0</value>
+	</property>
+
+	<description>
+		<title>Introduction</title>
+		<img>Green Slime.png</img>
+		<paragraph>
+Green Slimes are the weakest of all the slimes and spawn at a rapid rate during the day. It drops Gel and coins when killed. They are the first enemy a player will most likely come across when starting off. They follow the Slime AI.
+</paragraph>
+		<title>Notes</title>
+		<paragraph>
+Green slimes will most likely not attack the player unless you attack it or it accidentally runs into you. However, like Blue and Purple slimes, they will convert from neutral to aggressive during the night or when underground.</paragraph>
+		<paragraph>
+Sometimes, very rarely, they will not drop anything.
+In Halloween, you will see Green Slimes wearing Bunny Costumes and vice-versa.</paragraph>
+
+	</description>
+	<tag>enemy</tag>
+</node>

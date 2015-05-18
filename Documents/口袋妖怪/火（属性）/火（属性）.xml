@@ -1,0 +1,25 @@
+<node>
+	<name>火（属性）</name>
+	<father>口袋妖怪</father>
+	<description>
+		<title>介绍</title>
+		<img>火（属性）.jpg</img>
+		<paragraph>
+火（ほのお，Fire），是十八种基本属性之一。
+</paragraph>
+		<paragraph>
+火属性的精灵总共有51只，占全精灵总数的7.65%。
+单属性精灵27只，其中最终形态12只。
+复合属性精灵24只，其中最终形态16只。
+</paragraph>
+<title>火属性的技能</title>
+<paragraph>
+火属性共有29个技能。
+其中物理技能9个，伤害最高的物理技能是威力180的创造胜利。
+特殊技能18个，伤害最高的特殊技能是受到交织闪电攻击后的交织火焰，威力100，伤害翻倍。
+变化技能2个。
+到第三世代为止，火属性的攻击技能全部属于特殊伤害。
+</paragraph>
+	</description>
+	<tag>属性</tag>
+</node>

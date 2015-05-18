@@ -1,0 +1,22 @@
+<node>
+	<name>电（属性）</name>
+	<father>口袋妖怪</father>
+	<description>
+		<title>介绍</title>
+		<img>电（属性）.jpg</img>
+		<paragraph>
+电（でんき，Electric），是十八种基本属性之一。</paragraph>
+		<paragraph>
+电属性的精灵总共有44只，占全精灵总数的6.60%。
+单属性精灵26只，其中最终形态13只。
+复合属性精灵18只，其中最终形态14只。</paragraph>
+		<title>电属性的技能</title>
+		<paragraph>
+电属性共有27个技能。
+其中物理技能8个，伤害最高的物理技能是受到交织火焰攻击后的交织闪电，威力100，伤害翻倍。
+特殊技能11个，伤害最高的特殊技能是速度差最大的电球，威力150。
+变化技能8个。
+到第三世代为止，电属性的攻击技能全部属于特殊伤害。</paragraph>
+	</description>
+	<tag>属性</tag>
+</node>

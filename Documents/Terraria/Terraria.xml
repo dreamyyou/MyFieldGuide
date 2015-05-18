@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<name>Terraria</name>
+	<property>
+		<key>type</key>
+		<value>game</value>
+	</property>
+	<description>
+		<title>Introduction</title>
+		<paragraph>
+Terraria is video game developed by Re-Logic. It was first released as a game for Microsoft Windows on May 16, 2011 but has since expanded to several other platforms. It is a 2D action-adventure, open-world sandbox/platformer game in which the player controls a single character in a generated world.
+		</paragraph>
+		<img>Day.jpg</img>
+		<paragraph>
+Both singleplayer and multiplayer is supported. Besides English, the in-game language can be set to German, Italian, French, and Spanish. The gameplay has several similarities to the well-known Minecraft and was partially inspired by it.
+</paragraph>
+		<paragraph>
+It has been announced that a follow-up, Terraria 2, is planned for the future.
+</paragraph>
+		<title>Payment</title>
+		<paragraph>
+Terraria is purchased via a one-time-payment. Updates are free afterward. The price differs between game versions (see below) but generally ranges between $5-20 USD. Various sales occasionally lower the price, to as low as $1.99.[1] Some platforms also offer trial/demo versions.
+</paragraph>
+		<paragraph>
+There is also a Collector's Edition version which may cost a bit more but includes additional merchandise.
+</paragraph>
+		<paragraph>
+The game is available in PC, Console, and Mobile versions.
+</paragraph>
+		<title>PC version</title>
+		<paragraph>
+The PC version is the most extensive, featuring nearly everything ever introduced to Terraria. On this wiki entries that regards content exclusive to the PC version will be marked with </paragraph>
+		<img>PC_only.png</img>
+		<paragraph>.</paragraph>
+		<title>Mobile version</title>
+		<paragraph>
+The mobile version includes several features found in the PC and console versions, also holding some notable mobile exclusive ones. It runs on Android, iOS, and Windows Phone. On this wiki, entries that regards content exclusive to the mobile version will be marked </paragraph>
+		<img>Mobile_only.png</img>
+		<paragraph>.</paragraph>
+	</description>
+	<son>Guide</son>
+	<son>Copper Pickaxe</son>
+	<son>Enemy</son>
+
+
+	<own>Guide</own>
+	<own>Copper Pickaxe</own>
+	<own>Eye of Cthulhu</own>
+	<own>Enemy</own>
+	<own>Slime</own>
+	<own>Green Slime</own>
+
+</root>

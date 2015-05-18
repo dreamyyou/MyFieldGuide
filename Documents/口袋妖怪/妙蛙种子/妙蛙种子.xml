@@ -1,0 +1,38 @@
+<node>
+	<name>妙蛙种子</name>
+	<father>草（属性）</father>
+	<img>妙蛙种子.jpg</img>
+	<property>
+		<key>Type</key>
+		<value>精灵</value>
+	</property>
+	<property>
+		<key>孵化步数</key>
+		<value>5120步</value>
+	</property>
+	<property>
+		<key>攻击</key>
+		<value>49</value>
+	</property>
+	<property>
+		<key>防御</key>
+		<value>49</value>
+	</property>
+	<property>
+		<key>HP</key>
+		<value>45</value>
+	</property>
+	<description>
+		<title>介绍</title>
+		<paragraph>
+妙蛙种子是唯一具有双属性的未进化初始精灵。
+妙蛙种子是唯一可通过遗传习得花瓣舞的精灵。不过，其最终进化型妙蛙花可通过升级习得。
+</paragraph>
+        <title>进化</title>
+        <img>妙蛙草.png</img>
+		<paragraph>
+        </paragraph>
+        <img>妙蛙花.png</img>
+	</description>
+	<tag>精灵</tag>
+</node>
